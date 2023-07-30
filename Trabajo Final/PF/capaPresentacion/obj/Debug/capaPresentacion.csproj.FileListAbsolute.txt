@@ -1,0 +1,89 @@
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaLogica.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaDatos.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaLogica.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\bin\Debug\capaDatos.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaPresentacion\obj\Debug\capaPresentacion.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaPresentacion.exe
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaPresentacion.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaLogica.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaDatos.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaLogica.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\bin\Debug\capaDatos.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.exe
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Menu.resources
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaPresentacion\obj\Debug\capaPresentacion.Reportes.resources
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Menu.resources
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Reportes.resources
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\bin\Debug\capaDatos.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Form1.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Login.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Menu.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.Reportes.resources
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaPresentacion\obj\Debug\capaPresentacion.pdb
