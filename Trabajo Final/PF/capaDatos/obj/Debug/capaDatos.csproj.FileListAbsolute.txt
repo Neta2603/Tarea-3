@@ -1,0 +1,30 @@
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaDatos\bin\Debug\capaDatos.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaDatos\bin\Debug\capaDatos.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaDatos\obj\Debug\capaDatos.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\Udemy\Agenda-master\capaDatos\obj\Debug\capaDatos.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaDatos\bin\Debug\capaDatos.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaDatos\bin\Debug\capaDatos.pdb
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaDatos\obj\Debug\capaDatos.dll
+D:\Cuatrimestre 4 Itla\Programacion 2\parcial2V\Parcial2\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\jorge\Desktop\Trabajo Final\Parcial2\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Wustock\Downloads\Trabajo Final\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.csproj.AssemblyReference.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Wustock\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Escritorio\PC\ITLA\4. Cuarto Cuatrimestre\Programacion 2\Trabajo Final\PF\capaDatos\obj\Debug\capaDatos.pdb
